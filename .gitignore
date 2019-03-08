@@ -1,0 +1,6 @@
+main* 
+*.o 
+cmake-build-debug
+.DS*
+.a.out
+*.a
